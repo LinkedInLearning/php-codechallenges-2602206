@@ -1,0 +1,15 @@
+label{
+    display: inline-block;
+    background:lightgray;
+    width:120px;
+    margin:5px;
+    padding: 5px;
+}
+h1,h2{
+    background:lightgray;
+    margin:5px;
+    padding: 5px;
+}
+.fehler{
+    color:red;
+}
