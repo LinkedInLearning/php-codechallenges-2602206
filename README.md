@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `[Code Challenges für PHP]`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![COURSENAME][lil-thumbnail-url] 
+
 
 [COURSEDESCRIPTION]
 
@@ -20,7 +20,7 @@ Dieses Repository verwendet nur einen Branch. Die Videos sind nach Kapiteln stru
    - Empfehlung XAMPP, was Unterstützung von PHP sowie den Webserver Apache und MariaDB bereits bereitstellt
    - Einen Browser
    - Einen beliebigen Editor
-Sie können auch - mit gewissen Einschränkungen - Codespaces als virtuelle Entwicklungsumgebung verwenden. Die Details werden in dem passenden Video erklärt.
+   - Sie können auch - mit gewissen Einschränkungen - Codespaces als virtuelle Entwicklungsumgebung verwenden. Die Details werden in dem passenden Video erklärt.
 
    
 2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
