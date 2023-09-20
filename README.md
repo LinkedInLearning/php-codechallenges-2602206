@@ -37,4 +37,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-php
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGSJ_E9HNTNMQ/learning-public-crop_675_1200/0/1688989446236?e=2147483647&v=beta&t=fVJNfGbBIcEvalThoAglm0r8lCi3X3GIkEdh1j74FQE
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEwTphFAQpw7g/learning-public-crop_675_1200/0/1689598702860?e=2147483647&v=beta&t=b-EXuHEHzQr5l-1HOE5PcckAYvJJeVYLjTgh3OTf3Iw
